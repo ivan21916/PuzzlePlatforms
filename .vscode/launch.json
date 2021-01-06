@@ -5,7 +5,7 @@
 			"name": "PuzzlePlatforms (Debug)",
 			"request": "launch",
 			"preLaunchTask": "PuzzlePlatforms Win64 Debug Build",
-			"program": "D:\\UE4\\PuzzlePlatforms\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"program": "C:\\Steam_Multiplayer\\PuzzlePlatforms-main\\Binaries\\Win64\\UE4-Win64-Debug.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
@@ -18,7 +18,7 @@
 			"name": "PuzzlePlatforms (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "PuzzlePlatforms Win64 DebugGame Build",
-			"program": "D:\\UE4\\PuzzlePlatforms\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"program": "C:\\Steam_Multiplayer\\PuzzlePlatforms-main\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
@@ -31,7 +31,7 @@
 			"name": "PuzzlePlatforms (Development)",
 			"request": "launch",
 			"preLaunchTask": "PuzzlePlatforms Win64 Development Build",
-			"program": "D:\\UE4\\PuzzlePlatforms\\Binaries\\Win64\\UE4.exe",
+			"program": "C:\\Steam_Multiplayer\\PuzzlePlatforms-main\\Binaries\\Win64\\UE4.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
@@ -44,7 +44,7 @@
 			"name": "PuzzlePlatforms (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "PuzzlePlatforms Win64 Shipping Build",
-			"program": "D:\\UE4\\PuzzlePlatforms\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"program": "C:\\Steam_Multiplayer\\PuzzlePlatforms-main\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
@@ -57,7 +57,7 @@
 			"name": "PuzzlePlatforms (Test)",
 			"request": "launch",
 			"preLaunchTask": "PuzzlePlatforms Win64 Test Build",
-			"program": "D:\\UE4\\PuzzlePlatforms\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"program": "C:\\Steam_Multiplayer\\PuzzlePlatforms-main\\Binaries\\Win64\\UE4-Win64-Test.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
@@ -72,7 +72,7 @@
 			"preLaunchTask": "PuzzlePlatformsEditor Win64 Debug Build",
 			"program": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
 			"args": [
-				"D:\\UE4\\PuzzlePlatforms\\PuzzlePlatforms.uproject"
+				"C:\\Steam_Multiplayer\\PuzzlePlatforms-main\\PuzzlePlatforms.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
 			"stopAtEntry": false,
@@ -86,7 +86,7 @@
 			"preLaunchTask": "PuzzlePlatformsEditor Win64 DebugGame Build",
 			"program": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
 			"args": [
-				"D:\\UE4\\PuzzlePlatforms\\PuzzlePlatforms.uproject"
+				"C:\\Steam_Multiplayer\\PuzzlePlatforms-main\\PuzzlePlatforms.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
 			"stopAtEntry": false,
@@ -100,7 +100,7 @@
 			"preLaunchTask": "PuzzlePlatformsEditor Win64 Development Build",
 			"program": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
-				"D:\\UE4\\PuzzlePlatforms\\PuzzlePlatforms.uproject"
+				"C:\\Steam_Multiplayer\\PuzzlePlatforms-main\\PuzzlePlatforms.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
 			"stopAtEntry": false,
@@ -117,7 +117,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=\"D:\\UE4\\PuzzlePlatforms\\PuzzlePlatforms.uproject\"",
+				"-project=\"C:\\Steam_Multiplayer\\PuzzlePlatforms-main\\PuzzlePlatforms.uproject\"",
 				"-game",
 				"-engine"
 			],

@@ -1,9 +1,10 @@
 {
 	"files.exclude": {
-		"D:/UE4/PuzzlePlatforms/.vscode": true,
-		"D:/UE4/PuzzlePlatforms/Content": true,
-		"D:/UE4/PuzzlePlatforms/DerivedDataCache": true,
-		"D:/UE4/PuzzlePlatforms/Intermediate": true,
-		"D:/UE4/PuzzlePlatforms/Saved": true
+		"C:/Steam_Multiplayer/PuzzlePlatforms-main/.vs": true,
+		"C:/Steam_Multiplayer/PuzzlePlatforms-main/.vscode": true,
+		"C:/Steam_Multiplayer/PuzzlePlatforms-main/Content": true,
+		"C:/Steam_Multiplayer/PuzzlePlatforms-main/DerivedDataCache": true,
+		"C:/Steam_Multiplayer/PuzzlePlatforms-main/Intermediate": true,
+		"C:/Steam_Multiplayer/PuzzlePlatforms-main/Saved": true
 	}
 }
